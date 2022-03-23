@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: #1F2937;
+    padding: 0 200px;
+}
+/* navbar */
+.navbar {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 10px 0 0 0;
+    gap: 30px;
+    margin: 0 0 100px 0;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.push {
+    margin-left: auto;
+}
+a {
+    text-decoration: none;
+    font-size: 18px;   
+    color: #E5E7EB;
+}
+
+/* header */
+.container {
+    display: flex;
+    padding-bottom: 100px;
+    gap: 10px;
+}
+.container div {
+    width: 760px;
+    flex: 0 1 auto;
+}
+.image {
+    text-align: end;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-top: 0;
+}
+.text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.sign {
+    background-color: #3882F6;
+    color: white;
+    padding: 6px 40px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* main */
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+.collection {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.info {
+    width: 300px;
+    text-align: center;
+}
+.info img {
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+}
+.quote-main {
+    display: flex;
+    background-color: #E5E7EB;
+    padding: 50px 0;
+    justify-content: center;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0;
+}
+p {
+    margin: 0;
+}
+q {
+    margin-left: auto;
+    font-weight: 900;
+}
+/* action */
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 100px 300px 100px 250px;
+    border-radius: 10px;
+    gap: 20px;
+}
+.action-text {
+    padding: 60px;
+    color:  #F9FAF8;
+}
+.action-bold {
+    font-size: 24px;
+    font-weight: 900;
+}
+.whitesign {
+    border: #F9FAF8 solid 2px;
+    margin: 0;
+}
+/* footer */
+footer p {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
